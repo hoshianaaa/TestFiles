@@ -4,5 +4,5 @@
 例えばpng画像をダウンロードする場合以下のようにダウンロードできます。
 
 ```
-wget https://github.com/hoshianaaa/TestFiles/blob/master/ocean.png
+wget https://github.com/hoshianaaa/TestFiles/blob/master/image.png
 ```
